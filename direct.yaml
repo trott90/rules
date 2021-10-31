@@ -1,2 +1,3 @@
 payload:  
   - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,apple.com.akadns.net
